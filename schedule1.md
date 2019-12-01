@@ -1,4 +1,4 @@
-# Group 02 - Members:
+### Group 02 - Members:
 1.  Rafael Silva
 2. 
 3. 
@@ -8,7 +8,7 @@
 7. 
 8. 
 
-# Schedule 5th december 2019 - 13.00-15.00
+### Schedule 5th december 2019 - 13.00-15.00
 
 
 | Time        |  Student/Team | 
