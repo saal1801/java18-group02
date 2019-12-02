@@ -1,7 +1,7 @@
 ### Group 02 - Members:
 1. Josef N. (josefnm) / Jenny O. (jennyostman)
 2. Sarko (saal1801)
-3. 
+3. Erik (erikaneer)
 4. 
 5. 
 6. 
@@ -19,5 +19,5 @@
 | 13.45-13.55 |               |
 | 14.00-14.10 |               |
 | 14.15-14.25 |               |
-| 14.30-14.40 |               |
+| 14.30-14.40 | Team 3        |
 | 14.45-14.55 |               |
