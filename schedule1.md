@@ -1,6 +1,6 @@
 ### Group 02 - Members:
-1.  Rafael Silva (Example)
-2. 
+1. Josef N. (josefnm) / Jenny O. (jennyostman)
+2. Sarko (saal1801)
 3. 
 4. 
 5. 
