@@ -1,8 +1,8 @@
 ### Group 02 - Members:
-1. 
-2. 
-3. 
-4. 
+1. Josef N. (josefnm) / Jenny O. (jennyostman)
+2. Sarko (saal1801)
+3. Erik (erikaneer)
+4. Lukas Andren (LukasAndren)
 5. 
 6. 
 7. 
